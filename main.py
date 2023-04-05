@@ -42,11 +42,11 @@ print("F1-мера:", f1, "\n\n")
 model = BayesianNetwork([('Игра', 'Прогноз'), ('Игра', 'Температура'), ('Игра', 'Влажность'), ('Игра', 'Ветер'),('Прогноз', 'Температура'), ('Прогноз', 'Влажность'), ('Температура', 'Ветер')])
 
 # вывод условных вероятностей BayesianEstimator
-for i in X:
+for i in data:
     est = BayesianEstimator(model, data).estimate_cpd(i)
     print(est)
 
 # вывод условных вероятностей MaximumLikelihoodEstimator
-for i in X:
+for i in data:
     est = MaximumLikelihoodEstimator(model, data).estimate_cpd(i)
     print(est)

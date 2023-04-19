@@ -65,7 +65,7 @@
 ![Test_accuracy](https://user-images.githubusercontent.com/115420503/231473102-848cbe0b-e812-424c-9b24-5db0477f7c05.png)
 
 ## Граф построенный:
-![image](https://user-images.githubusercontent.com/115420503/233079056-1ecb00fe-8903-4233-b6b9-f72077f98c3a.png)
+![image](https://user-images.githubusercontent.com/115420503/233081626-0dd8ad99-fce7-4d05-992a-f03e2457fd84.png)
 
 
 

@@ -58,13 +58,14 @@
 
 **income:** доход (категориальная переменная, "<=50K" означает доход менее или равный $50K в год, а ">50K" означает доход более $50K в год)
 
-## Граф:
+## Граф автоматический:
 ![Graph_test](https://user-images.githubusercontent.com/115420503/231473003-b8cf5fb1-146b-45e8-9532-a2afb99812c8.png)
 
 ## Точность:
 ![Test_accuracy](https://user-images.githubusercontent.com/115420503/231473102-848cbe0b-e812-424c-9b24-5db0477f7c05.png)
 
 
+![image](https://user-images.githubusercontent.com/115420503/233079056-1ecb00fe-8903-4233-b6b9-f72077f98c3a.png)
 
 
 
